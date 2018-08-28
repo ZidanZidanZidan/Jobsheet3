@@ -13,7 +13,7 @@ public class Gajah extends Hewan
 {
     public static void testClassMethod()
     {
-        System.out.println("The class method in Hewan...");
+        System.out.println("The class method in hewan...");
     }
     //meng-override method pada class Animal
 public void testInstanceMethod()
